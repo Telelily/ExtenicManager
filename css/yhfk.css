@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+#first{
+	color: white;
+}
+
+.page-header ul li a{
+	color: 	#8A8A8A;
+	font-size: 18px;
+}
+.fenye{
+  text-align: center; 
+}
+.fenye .pagination li.active a {
+  background-color:#8A8A8A;
+  border: none;
+}
+
+
+.fenye .pagination li a{
+   color:#3D3D3D;
+   font-weight: bold;
+}
+.foot{
+	text-align: center;
+	background-color: rgb(24,24,24);
+	color:#838B83;
+}
